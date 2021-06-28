@@ -16,7 +16,7 @@
 title: Portfolio and Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my portfolio for personal projects and blog posts about programming.
+  Welcome to my portfolio for personal projects and posts about programming.
 twitter_username: username
 github_username: bbernal1
 minimal_mistakes_skin: air
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Brian Bernal"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Welcome to my portfolio for personal projects and posts about programming."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
