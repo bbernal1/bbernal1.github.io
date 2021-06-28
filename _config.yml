@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Brian Bernal"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Welcome to my portfolio for personal projects and posts about programming"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
