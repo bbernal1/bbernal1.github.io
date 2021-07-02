@@ -1,3 +1,4 @@
+---
 title: "Bug fixes"
 excerpt_separator: "<!--more-->"
 categories:
