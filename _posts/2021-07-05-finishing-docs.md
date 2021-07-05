@@ -1,6 +1,5 @@
 ---
 title: "Finishing documentation and resume updates"
-excerpt_separator: "<!--more-->"
 categories:
   - Project
   - Blog
