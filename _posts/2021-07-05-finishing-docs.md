@@ -2,7 +2,6 @@
 title: "Finishing documentation and resume updates"
 categories:
   - Project
-  - Blog
 tags:
   - Documentation
   - Life Updates
