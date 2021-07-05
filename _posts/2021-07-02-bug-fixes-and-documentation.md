@@ -3,7 +3,6 @@ title: "Bug fixes and life update"
 excerpt_separator: "<!--more-->"
 categories:
   - Project
-  - Blog
 tags:
   - Coding
   - Documentation
