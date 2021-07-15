@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blog and Portfolio
+title: My Programming Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my portfolio for personal projects and blog posts about programming.
+  Welcome to my blog where I will post about my personal projects and anything programming related.
 twitter_username: username
 github_username: bbernal1
 minimal_mistakes_skin: contrast
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Brian Bernal"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Welcome to my portfolio for personal projects and posts about programming"
+  bio    : "Welcome to my blog where I will post about my personal projects and anything programming related."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
