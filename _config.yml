@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Welcome to my blog where I will post about my personal projects and anything programming related."
   links:
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/bebernal2/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jpcards.herokuapp.com"
