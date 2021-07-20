@@ -63,12 +63,13 @@ author:
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/bebernal2/"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://jpcards.herokuapp.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bbernal1"
+    - label: "Flashcard Application"
+      icon: "fas fa-fw fa-link"
+      url: "https://jpcards.herokuapp.com"
+
 
 
 footer:
