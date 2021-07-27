@@ -24,10 +24,10 @@ public class Solution {
     }
 }
 ```
-Explanation:
+Explanation:  
 Before line 16 is executed, "cnt" is equal to the total number of 1 digits counted so far.  
 On line 18, "(n & 1)" will return a 1 if the least significant digit is a 1 or 0 otherwise.  If it returns 1, then increment "cnt".  
 On line 21, "n >>> 1" performs an unsigned right shift on "n" by one place. This will remove the least significant digit.  
-Go to Line 16 and check if "n != 0 " is true. If it is true, then all of the 1 bits have been counted
+On Line 16, it checks if "n != 0" is true. If it is true, then all of the 1 bits have been counted, otherwise continue looping.
 
 
