@@ -1,0 +1,5 @@
+@import "minimal-mistakes";
+blockquote {
+  /* Override `font-style: italic;` in "_base.scss" */
+  font-style: normal;
+}
