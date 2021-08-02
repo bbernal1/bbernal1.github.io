@@ -61,7 +61,7 @@ author:
   bio    : "Welcome to my blog where I will post about my personal projects and anything programming related."
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bebernal2/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
